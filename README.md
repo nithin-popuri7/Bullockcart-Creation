@@ -2,10 +2,10 @@
 Name:P.Siva Naga Nithin.
 Reg.No:212221240037.
 
-##Aim:
+## Aim:
 To creat a scene of moving Bullockcart.
 
-##Procedure:
+## Procedure:
 1.Start the process by creating a rectanlge and extruding it.
 
 2.Make side fences and combine all of them.
@@ -26,8 +26,8 @@ To creat a scene of moving Bullockcart.
 
 10.It can be done by creating frames for each individual item.
 
-##Output:
+## Output:
 YouTube Link:https://youtu.be/BvZfiq7RT38
 
-##Result:
+## Result:
 Therefore a Bullockcart is created successfully.
